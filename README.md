@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @A10Wartpog
-- 👀 I’m interested in Cybersecurity, pentesting
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+not deving anymore
+cybersec is my priority
+
 
 <!---
 A10Wartpog/A10Wartpog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
