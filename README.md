@@ -1,5 +1,3 @@
-not deving anymore
-cybersec is my priority
 
 
 <!---
